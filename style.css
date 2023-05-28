@@ -1,0 +1,21 @@
+body {
+  text-align: center;
+  background-color: #17141f;
+
+  }
+
+a:default, a:visited, a:active {
+  color: #4d4d33;
+  background-color: transparent;
+  cursor: help;
+
+  }
+
+p {
+color: #a3a375;
+text-align: center;
+}
+
+h2 {
+  letter-spacing: 2px;
+}
